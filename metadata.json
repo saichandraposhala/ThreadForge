@@ -1,0 +1,6 @@
+{
+  "name": "ThreadForge",
+  "description": "Parametric CAD garment engineering, 3D WebGL visualizer, AI virtual model inference, and production tech pack studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
